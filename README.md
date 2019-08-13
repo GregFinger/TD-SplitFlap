@@ -1,3 +1,3 @@
-# TD-splitFlap
+# Split Flap
 
 ![gif](splitFlap.gif)
