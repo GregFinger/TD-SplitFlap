@@ -5,7 +5,7 @@
 ## UI
 
 ### Basic Usage
-Enter the data directly into the UI window's table. Accepted characters are: A-Z, 0-9, and special characters: space, colon, forward slash, period.
+Enter the data directly into the UI window's table. Accepted characters are: A-Z, 0-9, and special characters: space, colon, forward slash, period. You can navigate the table with arrow keys, tab key or mouse clicks.
 
 When finished entering the data you can click the "Commit" button. Each section only allows a certain amount of characters:
 
