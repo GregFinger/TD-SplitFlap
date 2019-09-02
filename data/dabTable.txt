@@ -4,7 +4,7 @@ order	platform	name	time	status	color
 3					w
 4					w
 5					w
-6					y
+6					w
 7					w
 8					y
 9		sometimes im unsure	what	to say.	w
@@ -35,4 +35,3 @@ order	platform	name	time	status	color
 34					w
 35					w
 36					w
-37					w
