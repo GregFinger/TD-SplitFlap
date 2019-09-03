@@ -1,37 +1,37 @@
-order	platform	name	time	status	color
-1					w
-2					w
-3					w
-4					w
-5					w
-6					w
-7					w
-8					y
-9		sometimes im unsure	what	to say.	w
-10			 so	i  say:	w
-11					w
-12					w
-13					w
-14					w
-15					w
-16					w
-17					w
-18					w
-19					w
-20					w
-21					w
-22					w
-23					w
-24					w
-25					w
-26					w
-27					w
-28		     nothing at all.			y
-29					w
-30					w
-31					w
-32					w
-33					w
-34					w
-35					w
-36					w
+order	platform	name	time	status	color	blink
+1					w	
+2					w	
+3					w	
+4					w	
+5					w	
+6					w	
+7					w	
+8					y	
+9		sometimes im unsure	what	to say.	w	
+10			 so	i  say:	r	
+11					w	
+12					w	
+13					w	
+14					w	
+15					w	
+16					w	
+17					w	
+18					w	
+19					w	
+20					w	
+21					w	
+22					w	
+23					w	
+24					w	
+25					w	
+26					w	
+27					w	
+28		     nothing at all.			y	1
+29					w	
+30					w	
+31					w	
+32					w	
+33					w	
+34					w	
+35					w	
+36					w	
