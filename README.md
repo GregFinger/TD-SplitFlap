@@ -32,5 +32,5 @@ Trigger Threshold: This determines at which part of the spin animation [0 to 1] 
 Enter in anything you want for the headers/titles.
 
 #### Colors
-Change the colors of the headers/titles. Also can change the angle and strength of the light (there are shadows for the headers/titles)
+Change the colors of the headers/titles/board. Also can change the angle and strength of the light (there are shadows for the headers/titles)
 ![params](images/params.png)
