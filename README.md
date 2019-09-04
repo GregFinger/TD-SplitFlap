@@ -20,9 +20,11 @@ The blink section controls whether the row blinks or not. Put a 1 in the cell to
 
 ### Other Parameters
 #### Flip
-Flip Speed: The spin velocity of the flaps.
+Time Method: Choose either between having them flip at a certain "Speed" (and they'll reach their destination at different times), or choose them to flip over a certain "Duration" (and they'll flip at different speeds)
 
-Flip Smoothing: Ease In/Out (acceleration/deceleration) function for the flipping. Real split flaps displays normally don't have this, but it does give the digital version a nice effect visually and helps break up the sound a bit.
+Time: Either the flip velocity if "Speed" is chosen, or amount of time it takes for it to reach it's final character if "Duration" is chosen.
+
+Speed Smoothing: Ease In/Out (acceleration/deceleration) function for the flipping when "Speed" is chosen. Real split flaps displays normally don't have this, but it does give the digital version a nice effect visually and helps break up the sound a bit.
 
 Audio: Toggle for turning on/off a clacking sound. I've included the Ableton project with the source files in case the sound needs to be tweaked.
 
