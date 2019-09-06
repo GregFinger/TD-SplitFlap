@@ -12,7 +12,7 @@ When finished entering the data you can click the "Commit" button. The button wi
 Each section only allows a certain amount of characters:
 Platform: 2, Name: 20, Time: 5, Status: 7
 
-The color section allows characters to show up as white or yellow or red. Enter w or y or r respectively to do so.
+The color section allows characters to show up as white or yellow or red. Enter w, y, r or b respectively to do so.
 
 The order section works with the "Reorder" button. To switch data from one row to another, switch the order numbers. Ex. if you want the data on row eight to appear in row nine, change row eight's order number to 9 and row nine's order number to 8, hit the "Reorder" button and then hit the "Commit" to confirm the change.
 
