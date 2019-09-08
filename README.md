@@ -5,14 +5,16 @@
 ## UI
 
 ### Basic Usage
-Enter the data directly into the UI window's table. Accepted characters are: A-Z, 0-9, and special characters: space, colon, forward slash, period. Choosing other characters besides these currently ends up glitching the whole board, so don't do it. You can navigate the table with arrow keys, tab key or mouse clicks.
+Enter the data directly into the UI window's table. Accepted characters are: A-Z, 0-9, and special characters: space, colon, forward slash, period, apostrophe. You can navigate the table with arrow keys, tab key or mouse clicks.
 
 When finished entering the data you can click the "Commit" button. The button will turn red. Wait until the red turns off to commit new changes.
 
-Each section only allows a certain amount of characters:
-Platform: 2, Name: 20, Time: 5, Status: 7
+Saving the entire project will save all the table data to an external txt file found in the 'data' folder. When launching the project it also references this file.
 
-The color section allows characters to show up as white or yellow or red. Enter w, y, r or b respectively to do so.
+Each section only allows a certain amount of characters:
+Platform: 2, Destination: 20, Time: 5, Status: 7
+
+The color section allows characters to show up as white or yellow, red or blue. It defaults to white. Enter y, r or b to change the color.
 
 The order section works with the "Reorder" button. To switch data from one row to another, switch the order numbers. Ex. if you want the data on row eight to appear in row nine, change row eight's order number to 9 and row nine's order number to 8, hit the "Reorder" button and then hit the "Commit" to confirm the change.
 
@@ -30,9 +32,19 @@ Audio: Toggle for turning on/off a clacking sound. I've included the Ableton pro
 
 Trigger Threshold: This determines at which part of the spin animation [0 to 1] does the clack sound get triggered.
 
-#### Titles
+#### Title Texts
 Enter in anything you want for the headers/titles.
 
+#### Title Fonts
+Choose external .ttf or .otf font to use for project's text. For the split flap text, make sure the font is monospaced.
+
 #### Colors
-Change the colors of the headers/titles/board. Also can change the angle and strength of the light (there are shadows for the headers/titles)
+Change the colors of the headers/titles/board.
+
+#### Render
+Change the angle and strength of the light (there are shadows for the headers/titles).
+
 ![params](images/params.png)
+
+#### Notes
+Should the unusuable flaps between sections just be deleted so the split between sections can be a little more obvious?
