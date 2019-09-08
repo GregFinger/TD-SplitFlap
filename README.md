@@ -11,14 +11,16 @@ When finished entering the data you can click the "Commit" button. The button wi
 
 Saving the entire project will save all the table data to an external txt file found in the 'data' folder. When launching the project it also references this file.
 
-Each section only allows a certain amount of characters:
+The table is split into seven sections.
+
+The sections for split flap text only allow a certain amount of characters:
 Platform: 2, Destination: 20, Time: 5, Status: 7
 
-The color section allows characters to show up as white or yellow, red or blue. It defaults to white. Enter y, r or b to change the color.
+The Color section allows characters to show up as white or yellow, red or blue. It defaults to white. Enter y, r or b to change the color.
 
-The order section works with the "Reorder" button. To switch data from one row to another, switch the order numbers. Ex. if you want the data on row eight to appear in row nine, change row eight's order number to 9 and row nine's order number to 8, hit the "Reorder" button and then hit the "Commit" to confirm the change.
+The Order section works with the "Reorder" button. To switch data from one row to another, switch the order numbers. Ex. if you want the data on row eight to appear in row nine, change row eight's order number to 9 and row nine's order number to 8, hit the "Reorder" button and then hit the "Commit" to confirm the change.
 
-The blink section controls whether the row blinks or not. Put a 1 in the cell to turn on blinking, otherwise leave it blank.
+The Blink section controls whether the row blinks or not. Put a 1 in the cell to turn on blinking, otherwise leave it blank.
 
 ### Parameters
 #### Flip
