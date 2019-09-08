@@ -20,7 +20,7 @@ The order section works with the "Reorder" button. To switch data from one row t
 
 The blink section controls whether the row blinks or not. Put a 1 in the cell to turn on blinking, otherwise leave it blank.
 
-### Other Parameters
+### Parameters
 #### Flip
 Time Method: Choose either between having them flip at a certain "Speed" (and they'll reach their destination at different times), or choose them to flip over a certain "Duration" (and they'll flip at different speeds)
 
