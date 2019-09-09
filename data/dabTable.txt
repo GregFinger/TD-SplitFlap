@@ -7,7 +7,7 @@ order	platform	destination	time	status	color	blink
 6						
 7						
 8						
-9		sometimes im unsure	what	to say.		
+9		sometimes im  unsure	 what	to say.		
 10			 so	i  say:	r	
 11						
 12						
